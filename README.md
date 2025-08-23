@@ -34,7 +34,7 @@ https://leetcode.com/problems/first-unique-character-in-a-string/
 
 **DAY 3**
 
-LEET CODE 9.9. Palindrome Number
+LEET CODE 9. Palindrome Number
 https://leetcode.com/problems/palindrome-number/description/
 
 LEET CODE 13. Roman to Integer
