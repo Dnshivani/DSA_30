@@ -30,3 +30,15 @@ https://leetcode.com/problems/missing-number/
 
 LEET CODE 387. First Unique Character in a String
 https://leetcode.com/problems/first-unique-character-in-a-string/
+
+
+**DAY 3**
+
+LEET CODE 9.9. Palindrome Number
+https://leetcode.com/problems/palindrome-number/description/
+
+LEET CODE 13. Roman to Integer
+https://leetcode.com/problems/roman-to-integer/description/
+
+LEET CODE 58. Length of Last Word
+https://leetcode.com/problems/length-of-last-word/description/
