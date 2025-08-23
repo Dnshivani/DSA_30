@@ -42,3 +42,15 @@ https://leetcode.com/problems/roman-to-integer/description/
 
 LEET CODE 58. Length of Last Word
 https://leetcode.com/problems/length-of-last-word/description/
+
+
+**DAY 4**
+
+LEET CODE 350. Intersection of Two Arrays II
+https://leetcode.com/problems/intersection-of-two-arrays-ii/
+
+LEET CODE 88. Merge Sorted Array
+https://leetcode.com/problems/merge-sorted-array/description/
+
+LEET CODE 136. Single Number
+https://leetcode.com/problems/single-number/description/
