@@ -7,22 +7,17 @@ class Solution {
       int m=a.length;  
       Arrays.sort(a);Arrays.sort(b); 
       int n=b.length;
-      List<Integer> result=new ArrayList<>();
       int i=0,j=0,k=0;
       while(i<m&&j<n)
       {
        if(a[i]==b[j])
-       {result.add(a[i]);k++;i++;j++;}
+       {a[k]=a[i];k++;i++;j++;}
        else if (a[i]<b[j])
        { i++;}
        else
        {j++;}
       }
-      int[] r=new int[result.size()];
-      for(int q=0;q<result.size();q++)
-      {
-        r[q]=result.get(q);
-      }
-      return r;
+     
+      return Arrays.copyOfRange(a,0,k);
     }
 }
