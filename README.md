@@ -54,3 +54,14 @@ https://leetcode.com/problems/merge-sorted-array/description/
 
 LEET CODE 136. Single Number
 https://leetcode.com/problems/single-number/description/
+
+**DAY 5**
+
+LEET CODE 4. Median of Two Sorted Arrays
+https://leetcode.com/problems/median-of-two-sorted-arrays/
+
+LEETCODE 202. Happy Number
+https://leetcode.com/problems/happy-number/description/
+
+LEET CODE 191. Number of 1 Bits.
+https://leetcode.com/problems/number-of-1-bits/
